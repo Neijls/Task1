@@ -1,0 +1,14 @@
+E:\01_CSHARP\Lesson1\task3\bin\Debug\net7.0\task3.exe
+E:\01_CSHARP\Lesson1\task3\bin\Debug\net7.0\task3.deps.json
+E:\01_CSHARP\Lesson1\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+E:\01_CSHARP\Lesson1\task3\bin\Debug\net7.0\task3.dll
+E:\01_CSHARP\Lesson1\task3\bin\Debug\net7.0\task3.pdb
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\task3.dll
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\refint\task3.dll
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\task3.pdb
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+E:\01_CSHARP\Lesson1\task3\obj\Debug\net7.0\ref\task3.dll
